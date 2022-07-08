@@ -17,7 +17,7 @@
 			<false/>
 			<key>IsHotspot</key>
 			<false/>
-			<key>Password</key>
+			<key>86200086</key>
 			<string>123456</string>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
@@ -32,13 +32,13 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
-			<string>192.168.6.242</string>
+			<string>192.168.0.17</string>
 			<key>ProxyServerPort</key>
 			<integer>7890</integer>
 			<key>ProxyType</key>
 			<string>Manual</string>
 			<key>SSID_STR</key>
-			<string>请输入wifi名称</string>
+			<string>360wifi-5G</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
